@@ -1,0 +1,63 @@
+{
+    "client":{
+
+        "inTest": true,
+        "clientId" : "1396577090765328384",
+        "clientTestId" : "1396579263519658086"
+
+    },
+
+    "guild":{
+
+        "guildId" : "1205257640649826334",
+
+        "galaxare21": "1177229977649946695",
+        "defrey": "775689801592471572",
+
+        "everyone":"1205257640649826334",
+
+        "ticket_category": "1205465635979657266",
+        "report_channel": "1205470953631514644",
+        "join_channel": "1402400939536683078",
+        "bait_channel":"1522345818013831269",
+
+
+        "member_role": "1205269505979453440",
+
+        "style": "royal"
+    },
+
+
+    "database":{
+
+        "dbhost" : "127.0.0.1",
+        "dbuser" : "bloodbot",
+        "dbname" : "bloodbot",
+        "dbport" : "3306"
+    },
+
+    "bloodlie_data":{
+        "CGU_link": "https://metrics-groupe.fr/page/CGU.html",
+        "PP_link": "https://metrics-groupe.fr/page/PP.html"
+
+
+    },
+
+    "xp":{
+        "leaderboard_size" : 3,
+        "cooldowns" : 5,
+        "xp_base_cost" : 50,
+        "xp_growth_rate" : 5,
+
+        "xp_gain" : 25,
+        "xp_gain_long" : 50,
+        "long_message_characters" : 500
+
+    },
+    
+    "money":{
+        "name" : "bloodcoin",
+        "daily" : 10
+    }
+
+}

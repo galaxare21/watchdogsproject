@@ -1,0 +1,16 @@
+{
+  "name": "bloodbot",
+  "version": "1.2.2",
+  "description": "the official discord bot of bloodlie",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "galaxare21",
+  "license": "ISC",
+  "dependencies": {
+    "discord-card-canvas": "^2.3.0",
+    "discord.js": "^14.26.4",
+    "mariadb": "^3.5.3"
+  }
+}
