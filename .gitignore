@@ -1,2 +1,5 @@
 node_modules/
 token.json
+src/comands/admin/test.js
+launcher/*.out
+launcher/*.bin
