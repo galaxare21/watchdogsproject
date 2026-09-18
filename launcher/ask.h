@@ -1,0 +1,2 @@
+
+int ask_number();

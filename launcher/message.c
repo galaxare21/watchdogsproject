@@ -18,9 +18,9 @@ void print_menu(){
     printf("2) Start the bot (if you have installed just before you dont have to do that)\n");
     printf("3) Stop the bot\n");
     printf("4) Update the bot from the github repository\n");
-    printf("5) start the web interface (not implemented)");
-    printf("6) stop the web interface (not implemented)");
-    printf("7) uninstall the bot");
+    printf("5) start the web interface (not implemented)\n");
+    printf("6) stop the web interface (not implemented)\n");
+    printf("7) uninstall the bot\n");
     printf("\n");
 }
 
